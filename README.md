@@ -1,3 +1,5 @@
+-------------------------------------------------------------------------
+
 1. The notebook shows the development of the final model ARGUS which is capable of classifying a video under 14 categories [13 violence, 1 normal/non-violence]:
 
     ['Abuse', 'Arrest', 'Arson', 'Assault', 'Burglary', 'Explosion', 'Fight', 'Normal', 'RoadAccidents', 'Robbery', 'Shooting', 'Shoplifting', 'Stealing', 'Vandalism']
