@@ -14,7 +14,7 @@ in its architecture for fulfilling the detection purpose.
 -------------------------------------------------------------------
 
 2. A video file is also uploaded to showcase the modularity and integration scalability of the final detection model across various devices,
-such as drones and web-apps. However, it can be viewed by clicking on "View Raw" option.
+such as drones and web-apps. This can be viewed by clicking on "View Raw" option.
 
 -------------------------------------------------------------------
 
